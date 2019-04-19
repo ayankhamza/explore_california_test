@@ -2,4 +2,5 @@
 *~
 *.gz
 log/*.log
-
+*.zip
+assets/photoshop/
